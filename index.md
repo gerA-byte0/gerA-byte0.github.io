@@ -1,7 +1,9 @@
 
 # Gerardo Rojas' Portfolio
 
-I am an Electrical Engineer major at CSUF and I graduate by 2028.
+This is my home page. am an Electrical Engineer major at CSUF and I graduate by 2028.
+
+My GitHub page is https://github.com/gerA-byte0/
 
 ## Favorite CPSC 120L Labs
 
